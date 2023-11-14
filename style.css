@@ -34,6 +34,14 @@ ul
     color: wheat;
 }
 
+.menu_up
+{
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.623);
+    float: left;
+    padding: 20px;
+}
+
 .logo
 {
     text-align: center;
@@ -59,19 +67,11 @@ h1
     border-radius: 10px;
 }
 
-.menu_up
-{
-    width: 100%;
-    background-color: rgba(0, 0, 0, 0.623);
-    float: left;
-    padding: 30px;
-}
-
 .stopka
 {
-    color: black;
+    color: gray;
     font-weight: bold;
-    height: 30px;
+    padding: 15px;
     width: 100%;
     float: left;
     text-align: center;
