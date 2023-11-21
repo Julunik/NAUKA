@@ -23,6 +23,18 @@
     float: left;
 }
 
+.opcja
+{
+    float: left;
+    margin-right: 50px;
+    display: none;
+}
+
+.menu_up:hover .opcja
+{
+    display: inline;
+}
+
 .menu_up:hover
 {
     width: 100%;
